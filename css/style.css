@@ -695,7 +695,7 @@ header .nav3 ul li:not(:last-child)::after {
 /* start footer */
 footer{
     padding: 50px 0 0;
-    background-color: rgba(240,240,241,255);
+    background-color: #ececed;
     margin-top: 30px;
 }
 footer .logo img {
